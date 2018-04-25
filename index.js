@@ -3,7 +3,7 @@ var cheerio = require("cheerio");
 
 var url ="https://www.reddit.com/top/";
 
-request(url, function(err,response,html){
+request(url, function(err,res,html){
      if(!err){
          var $ = cheerio.load(html);
        
