@@ -1,4 +1,4 @@
-## Web Scraping of reddit website..  
+## Web Scraper of reddit website..  
 ## Instructions
 
 - Install dependencies
