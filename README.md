@@ -1,5 +1,5 @@
 ## Web Scraper of reddit website..  
-## Use :
+##  To Use :
 
 - Install dependencies
 
