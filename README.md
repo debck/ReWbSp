@@ -1,5 +1,5 @@
 ## Web Scraper of reddit website..  
-## Instructions
+## Use :
 
 - Install dependencies
 
