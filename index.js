@@ -2,7 +2,6 @@ var request = require("request");
 var cheerio = require("cheerio");
 var fs = require("fs");
 
-
 var url ="https://www.reddit.com/top/";
 
 request(url, function(err,response,html){
@@ -21,9 +20,6 @@ request(url, function(err,response,html){
         });
         
         fs.writeFile("result.txt",JSON.stringify(data, null , 4));
-        
-        
-        
         //console.log(data);
      }
 });
