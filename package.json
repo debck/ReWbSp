@@ -12,5 +12,14 @@
     "cheerio": "^1.0.0-rc.2",
     "fs": "0.0.1-security",
     "request": "^2.85.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debck/ReWbSp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/debck/ReWbSp/issues"
+  },
+  "homepage": "https://github.com/debck/ReWbSp#readme"
 }
